@@ -1,0 +1,4 @@
+Nexus — Aether Project
+Copyright 2026 Aether Project. All rights reserved to the authors of original application code and assets.
+
+This development distribution grants evaluation use of the Nexus application. A final public end-user license and identified seller/support details must be supplied by the publisher before commercial distribution. This notice does not replace or restrict the separate licenses of included open-source components; their license files and notices are distributed with the application.
